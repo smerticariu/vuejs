@@ -1,7 +1,5 @@
 # vuejs
 
-> a booking project
-
 ## Build Setup
 
 ```bash
